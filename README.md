@@ -31,11 +31,12 @@ DiscordTag : ``PHOENIX``#6876
 
 ### Screenshots and reference Images
 
-/readmeimages/images/login.png
-/readmeimages/images/page1.png
-/readmeimages/images/page2.png
-/readmeimages/images/gethelp.png
-/readmeimages/images/distract.png
+![page2](https://user-images.githubusercontent.com/97344852/176997194-481e850e-39c4-4d91-843e-645213f423d9.png)
+![page1](https://user-images.githubusercontent.com/97344852/176997196-c3cc9a77-8c06-43c4-8c10-7ce0f379dca4.png)
+![login](https://user-images.githubusercontent.com/97344852/176997197-36e163bf-1856-4b1b-a903-8376fd2e1c04.png)
+![gethelp](https://user-images.githubusercontent.com/97344852/176997199-d5e01e96-bd28-4e89-bec9-086ba16ac529.png)
+![distract](https://user-images.githubusercontent.com/97344852/176997202-926ec26f-0332-4bf8-828b-4f685ab668da.png)
+
 
 
 ### Links and References:
