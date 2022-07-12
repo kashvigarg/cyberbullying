@@ -1,15 +1,8 @@
-import 'package:demo/Pages/contribute.dart';
-import 'package:demo/Pages/learnmore/know_your_rights.dart';
-import 'package:demo/Pages/page_view.dart';
 import 'package:demo/components/routes.dart';
-import 'package:demo/Pages/gethelp.dart';
-import 'package:demo/Pages/learnmore.dart';
-import 'package:demo/Pages/login_page.dart';
-import 'package:demo/Pages/pagetwo.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'Pages/gethelp/distract.dart';
+
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -36,16 +29,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       initialRoute: MyRoutes.loginRoute,
-      routes: {
-        MyRoutes.loginRoute: ((context) => LoginPage()),
-        MyRoutes.pageTwo: ((context) => SecondPage()),
-        MyRoutes.ContriPage: ((context) => Contribute()),
-        MyRoutes.HelpPage: ((context) => GetHelp()),
-        MyRoutes.LearnPage: ((context) => LearnMore()),
-        LearnMoreRoutes.KnowRightsPage: ((context) => KnowYourRights()),
-        GetHelpRoutes.DistractPage: ((context) => DistractPage()),
-        MyRoutes.pageView: ((context) => MyPageView())
-      },
+      
     );
   }
 }

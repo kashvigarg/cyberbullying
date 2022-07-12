@@ -1,4 +1,16 @@
 // ignore_for_file: non_constant_identifier_names
+/*
+routes: {
+        MyRoutes.loginRoute: ((context) => LoginPage()),
+        MyRoutes.pageTwo: ((context) => SecondPage()),
+        MyRoutes.ContriPage: ((context) => Contribute()),
+        MyRoutes.HelpPage: ((context) => GetHelp()),
+        MyRoutes.LearnPage: ((context) => LearnMore()),
+        LearnMoreRoutes.KnowRightsPage: ((context) => KnowYourRights()),
+        GetHelpRoutes.DistractPage: ((context) => DistractPage()),
+        MyRoutes.pageView: ((context) => MyPageView())
+      },
+*/
 
 class MyRoutes {
   
